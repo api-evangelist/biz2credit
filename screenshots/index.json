@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "biz2credit",
+    "captured_at": "2026-10-11T183811",
+    "source_url": "https://www.biz2credit.com",
+    "source_type": "Website",
+    "file": "biz2credit-2026-10-11T183811.png",
+    "bytes": 204675,
+    "capture": "playwright-local"
+  }
+]
